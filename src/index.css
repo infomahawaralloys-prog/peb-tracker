@@ -1,0 +1,7 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #080e17; color: #e2e8f0; font-family: 'DM Sans', sans-serif; min-height: 100vh; }
+input, select, button { font-family: inherit; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #0c1520; }
+::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
+::selection { background: #1e40af44; color: #e2e8f0; }

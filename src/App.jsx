@@ -546,17 +546,5 @@ export default function App() {
     </div>
   );
 }
-```
 
-**Paste ALL of this** into the `src/App.jsx` file on GitHub and click **Commit changes**.
 
-After committing, your GitHub repository should show these 7 files:
-```
-index.html
-package.json
-vite.config.js
-src/
-  App.jsx
-  index.css
-  main.jsx
-  supabase.js
